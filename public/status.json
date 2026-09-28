@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-09-27T00:58:01.726Z",
-  "checkedDate": "2026-09-26",
+  "lastRunAt": "2026-09-28T01:14:19.275Z",
+  "checkedDate": "2026-09-27",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,8 +9,8 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 112,
-  "matchesSent": 1,
+  "runCount": 113,
+  "matchesSent": 0,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
@@ -22,7 +22,7 @@
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 5
+      "datedToday": 4
     },
     {
       "name": "The Record",
@@ -49,15 +49,5 @@
       "datedToday": 0
     }
   ],
-  "matchedArticles": [
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "publishedAt": "2026-09-26T19:03:34.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    }
-  ]
+  "matchedArticles": []
 }
