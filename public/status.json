@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-09-28T01:14:19.275Z",
-  "checkedDate": "2026-09-27",
+  "lastRunAt": "2026-09-29T00:32:20.217Z",
+  "checkedDate": "2026-09-28",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,26 +9,26 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 113,
-  "matchesSent": 0,
+  "runCount": 114,
+  "matchesSent": 3,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 1
     },
     {
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 4
+      "datedToday": 9
     },
     {
       "name": "The Record",
       "ok": true,
       "checked": 5,
-      "datedToday": 0
+      "datedToday": 5
     },
     {
       "name": "EdScoop",
@@ -40,14 +40,42 @@
       "name": "Spiceworks",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 2
     },
     {
       "name": "Dark Reading",
       "ok": true,
       "checked": 50,
-      "datedToday": 0
+      "datedToday": 5
     }
   ],
-  "matchedArticles": []
+  "matchedArticles": [
+    {
+      "source": "Krebs on Security",
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "publishedAt": "2026-09-28T15:08:57.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "publishedAt": "2026-09-28T19:49:10.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    },
+    {
+      "source": "The Record",
+      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
+      "link": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
+      "publishedAt": "2026-09-28T19:30:00.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    }
+  ]
 }
