@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-09-29T00:32:20.217Z",
-  "checkedDate": "2026-09-28",
+  "lastRunAt": "2026-09-30T01:16:44.106Z",
+  "checkedDate": "2026-09-29",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,20 +9,20 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 114,
-  "matchesSent": 3,
+  "runCount": 115,
+  "matchesSent": 1,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
       "ok": true,
       "checked": 10,
-      "datedToday": 1
+      "datedToday": 0
     },
     {
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 9
+      "datedToday": 13
     },
     {
       "name": "The Record",
@@ -51,28 +51,10 @@
   ],
   "matchedArticles": [
     {
-      "source": "Krebs on Security",
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "publishedAt": "2026-09-28T15:08:57.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    },
-    {
       "source": "BleepingComputer",
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "publishedAt": "2026-09-28T19:49:10.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    },
-    {
-      "source": "The Record",
-      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
-      "link": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
-      "publishedAt": "2026-09-28T19:30:00.000Z",
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "publishedAt": "2026-09-29T20:09:55.000Z",
       "matchedTerms": [
         "ShinyHunters"
       ]
