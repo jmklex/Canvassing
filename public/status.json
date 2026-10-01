@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-09-30T01:16:44.106Z",
-  "checkedDate": "2026-09-29",
+  "lastRunAt": "2026-10-01T01:19:59.031Z",
+  "checkedDate": "2026-09-30",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,8 +9,8 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 115,
-  "matchesSent": 1,
+  "runCount": 116,
+  "matchesSent": 0,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
@@ -22,7 +22,7 @@
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 13
+      "datedToday": 9
     },
     {
       "name": "The Record",
@@ -40,7 +40,7 @@
       "name": "Spiceworks",
       "ok": true,
       "checked": 10,
-      "datedToday": 2
+      "datedToday": 3
     },
     {
       "name": "Dark Reading",
@@ -49,15 +49,5 @@
       "datedToday": 5
     }
   ],
-  "matchedArticles": [
-    {
-      "source": "BleepingComputer",
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "publishedAt": "2026-09-29T20:09:55.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    }
-  ]
+  "matchedArticles": []
 }
