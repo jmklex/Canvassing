@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-01T01:19:59.031Z",
-  "checkedDate": "2026-09-30",
+  "lastRunAt": "2026-10-02T02:19:46.437Z",
+  "checkedDate": "2026-10-01",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,7 +9,7 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 116,
+  "runCount": 117,
   "matchesSent": 0,
   "sourceStatus": [
     {
@@ -40,13 +40,13 @@
       "name": "Spiceworks",
       "ok": true,
       "checked": 10,
-      "datedToday": 3
+      "datedToday": 2
     },
     {
       "name": "Dark Reading",
       "ok": true,
       "checked": 50,
-      "datedToday": 5
+      "datedToday": 2
     }
   ],
   "matchedArticles": []
