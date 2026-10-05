@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-04T01:55:12.057Z",
-  "checkedDate": "2026-10-03",
+  "lastRunAt": "2026-10-05T02:06:09.985Z",
+  "checkedDate": "2026-10-04",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,8 +9,8 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 119,
-  "matchesSent": 1,
+  "runCount": 120,
+  "matchesSent": 0,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
@@ -22,7 +22,7 @@
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 3
+      "datedToday": 2
     },
     {
       "name": "The Record",
@@ -40,7 +40,7 @@
       "name": "Spiceworks",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 2
     },
     {
       "name": "Dark Reading",
@@ -49,15 +49,5 @@
       "datedToday": 0
     }
   ],
-  "matchedArticles": [
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "publishedAt": "2026-10-03T19:09:38.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    }
-  ]
+  "matchedArticles": []
 }
