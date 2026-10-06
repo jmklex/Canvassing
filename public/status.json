@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-05T02:06:09.985Z",
-  "checkedDate": "2026-10-04",
+  "lastRunAt": "2026-10-06T02:57:34.668Z",
+  "checkedDate": "2026-10-05",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,8 +9,8 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 120,
-  "matchesSent": 0,
+  "runCount": 121,
+  "matchesSent": 1,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
@@ -22,13 +22,13 @@
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 2
+      "datedToday": 11
     },
     {
       "name": "The Record",
       "ok": true,
       "checked": 5,
-      "datedToday": 0
+      "datedToday": 5
     },
     {
       "name": "EdScoop",
@@ -46,8 +46,18 @@
       "name": "Dark Reading",
       "ok": true,
       "checked": 50,
-      "datedToday": 0
+      "datedToday": 3
     }
   ],
-  "matchedArticles": []
+  "matchedArticles": [
+    {
+      "source": "The Record",
+      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement ",
+      "link": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
+      "publishedAt": "2026-10-05T19:15:00.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    }
+  ]
 }
