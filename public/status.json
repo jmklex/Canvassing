@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-08T02:55:26.146Z",
-  "checkedDate": "2026-10-07",
+  "lastRunAt": "2026-10-09T01:21:50.274Z",
+  "checkedDate": "2026-10-08",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,26 +9,26 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 123,
-  "matchesSent": 1,
+  "runCount": 124,
+  "matchesSent": 0,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
       "ok": true,
       "checked": 10,
-      "datedToday": 1
+      "datedToday": 0
     },
     {
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 10
+      "datedToday": 11
     },
     {
       "name": "The Record",
       "ok": true,
       "checked": 5,
-      "datedToday": 5
+      "datedToday": 4
     },
     {
       "name": "EdScoop",
@@ -49,15 +49,5 @@
       "datedToday": 4
     }
   ],
-  "matchedArticles": [
-    {
-      "source": "Krebs on Security",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "publishedAt": "2026-10-07T13:48:45.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    }
-  ]
+  "matchedArticles": []
 }
