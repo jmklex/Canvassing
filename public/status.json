@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-09T01:21:50.274Z",
-  "checkedDate": "2026-10-08",
+  "lastRunAt": "2026-10-10T02:36:51.852Z",
+  "checkedDate": "2026-10-09",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,26 +9,26 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 124,
-  "matchesSent": 0,
+  "runCount": 125,
+  "matchesSent": 4,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 1
     },
     {
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 11
+      "datedToday": 10
     },
     {
       "name": "The Record",
       "ok": true,
       "checked": 5,
-      "datedToday": 4
+      "datedToday": 5
     },
     {
       "name": "EdScoop",
@@ -46,8 +46,45 @@
       "name": "Dark Reading",
       "ok": true,
       "checked": 50,
-      "datedToday": 4
+      "datedToday": 5
     }
   ],
-  "matchedArticles": []
+  "matchedArticles": [
+    {
+      "source": "Krebs on Security",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "publishedAt": "2026-10-10T00:17:42.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "publishedAt": "2026-10-09T17:02:29.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    },
+    {
+      "source": "The Record",
+      "title": "FBI touts another ShinyHunters arrest in response to data breach",
+      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+      "publishedAt": "2026-10-09T15:41:00.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "publishedAt": "2026-10-09T17:21:00.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    }
+  ]
 }
