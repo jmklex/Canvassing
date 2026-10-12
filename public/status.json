@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-11T00:50:08.811Z",
-  "checkedDate": "2026-10-10",
+  "lastRunAt": "2026-10-12T00:45:59.554Z",
+  "checkedDate": "2026-10-11",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,8 +9,8 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 126,
-  "matchesSent": 1,
+  "runCount": 127,
+  "matchesSent": 0,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
@@ -22,7 +22,7 @@
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 3
+      "datedToday": 1
     },
     {
       "name": "The Record",
@@ -49,15 +49,5 @@
       "datedToday": 0
     }
   ],
-  "matchedArticles": [
-    {
-      "source": "BleepingComputer",
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "publishedAt": "2026-10-10T15:07:54.000Z",
-      "matchedTerms": [
-        "ShinyHunters"
-      ]
-    }
-  ]
+  "matchedArticles": []
 }
