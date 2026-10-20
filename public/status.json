@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-19T01:22:54.008Z",
-  "checkedDate": "2026-10-18",
+  "lastRunAt": "2026-10-20T01:39:09.422Z",
+  "checkedDate": "2026-10-19",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,26 +9,26 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 134,
-  "matchesSent": 0,
+  "runCount": 135,
+  "matchesSent": 1,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 1
     },
     {
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 1
+      "datedToday": 10
     },
     {
       "name": "The Record",
       "ok": true,
       "checked": 5,
-      "datedToday": 0
+      "datedToday": 5
     },
     {
       "name": "EdScoop",
@@ -40,14 +40,24 @@
       "name": "Spiceworks",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 4
     },
     {
       "name": "Dark Reading",
       "ok": true,
       "checked": 50,
-      "datedToday": 0
+      "datedToday": 5
     }
   ],
-  "matchedArticles": []
+  "matchedArticles": [
+    {
+      "source": "Krebs on Security",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "publishedAt": "2026-10-19T13:48:56.000Z",
+      "matchedTerms": [
+        "ShinyHunters"
+      ]
+    }
+  ]
 }
