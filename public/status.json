@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-21T01:32:06.310Z",
-  "checkedDate": "2026-10-20",
+  "lastRunAt": "2026-10-22T01:43:21.571Z",
+  "checkedDate": "2026-10-21",
   "baselineDate": "2026-05-11",
   "timezone": "America/Toronto",
   "runTimeEt": "19:55",
@@ -9,20 +9,20 @@
     "Canvas",
     "Instructure"
   ],
-  "runCount": 136,
+  "runCount": 137,
   "matchesSent": 0,
   "sourceStatus": [
     {
       "name": "Krebs on Security",
       "ok": true,
       "checked": 10,
-      "datedToday": 0
+      "datedToday": 1
     },
     {
       "name": "BleepingComputer",
       "ok": true,
       "checked": 15,
-      "datedToday": 12
+      "datedToday": 10
     },
     {
       "name": "The Record",
@@ -46,7 +46,7 @@
       "name": "Dark Reading",
       "ok": true,
       "checked": 50,
-      "datedToday": 4
+      "datedToday": 8
     }
   ],
   "matchedArticles": []
